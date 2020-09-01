@@ -1,0 +1,19 @@
+body {
+    font-family: 'Source Sans Pro'; 
+    background-color: #EAFDCF;
+}
+
+.value {
+    font-family: 'Alegreya Sans SC';
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+h6 {
+    margin: 0;
+}
+
+.relevantWords {
+    line-height: 90%;
+}
+
